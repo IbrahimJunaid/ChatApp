@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577793475840",
+    "project_id": "chatt-app-c44ec",
+    "storage_bucket": "chatt-app-c44ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577793475840:android:b5f5fafdeb0209dfdf1fe5",
+        "android_client_info": {
+          "package_name": "com.dodo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577793475840-roussa1bbg5j1tqln8trhs0uci57d97l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdyDlh4ROIeiAMfRgxwufKOcTnuqiCZj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577793475840-roussa1bbg5j1tqln8trhs0uci57d97l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
